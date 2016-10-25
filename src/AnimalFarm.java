@@ -23,14 +23,15 @@ public class AnimalFarm {
 		} else if (animal.equals("llama")) {
 			playLlama();
 		}
-	}else
+	}
+	
 
 	{
 		JOptionPane.showMessageDialog(null, "Go away and die in a hole in your grandmas backyard");
 		JOptionPane.showMessageDialog(null, "next time try a cow ,duck or dog!!");
 	}
 
-	}
+	
 
 	/* 2. Make it so that the user can keep entering new animals. */
 
